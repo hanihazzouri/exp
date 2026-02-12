@@ -8,3 +8,6 @@ added feature 2
 added in feat 1
 
 added remote
+
+
+added to main through push
